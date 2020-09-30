@@ -1,7 +1,3 @@
-# Maze Search
-Assignment: Maze.ipynb
-Code: maze.py
-Mazes: .txt files
 # Tasks
 Implement the following search algorithms for solving different mazes:
 
@@ -18,3 +14,8 @@ Run each of the above algorithms on the small maze, medium maze, large maze, ope
 3. Maximum tree depth searched
 4. Maximum size of the frontier.
 5. Display each solution by marking every maze square (or state) visited and the squares on the final path.
+
+# Maze Search Files
+1. Assignment: Maze.ipynb
+2. Code: maze.py
+3. Mazes: .txt files
