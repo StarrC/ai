@@ -1,2 +1,2 @@
 # ai
-Artificial Intelligence Repo
+Artificial Intelligence Repo for AI projects. 
